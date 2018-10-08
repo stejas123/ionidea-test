@@ -1,0 +1,9 @@
+footer.appFooter {
+	width: 100%;
+	position: fixed;	
+	padding: 20px;
+	margin-top: 45px;
+	box-sizing: border-box;
+	background: #ccc;
+	bottom: 0;
+}
